@@ -2,13 +2,13 @@
       
  
  ## Table of contents 
- [Description](##Description) 
- [Installation](##Installation) 
- [Usage](##Usage) 
- [Contribution](##Contribution) 
- [Testing instructions](##Testing_Instructions) 
- [Licence](##License) 
- [Contact information](##Contact_information)]
+ [Description](#description) 
+ [Installation](#installation) 
+ [Usage](#usage) 
+ [Contribution](#contribution) 
+ [Testing instructions](#testing_instructions) 
+ [Licence](#license) 
+ [Contact information](#contact_information)
       
  
  ## Description 
@@ -19,6 +19,7 @@
  
  ## Installation 
  First make sure you have NODE installed for your system. Then open the directory in the terminal and run node npm -i
+ Installation and demo video [here](https://youtu.be/lS6VsIEkjEs)
       
  
  ## Usage 
